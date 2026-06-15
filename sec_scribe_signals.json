@@ -1,0 +1,892 @@
+[
+  {
+    "ticker": "NVDA",
+    "date": "2026-06-15",
+    "source": "sec_scribe",
+    "form": "424B5",
+    "bullish_score": -8.8,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "424B5: pos=artificial intelligence,data center neg=termination,default"
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2026-05-20",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -7.6,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=data center,share repurchase neg=supply constraints,impairment,termination,default"
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2026-05-20",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AVGO",
+    "date": "2026-06-11",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AVGO",
+    "date": "2026-06-09",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,strategic partnership neg=supply constraints,pricing pressure,impairment,restructuring"
+  },
+  {
+    "ticker": "AVGO",
+    "date": "2026-06-03",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-06-05",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-05-14",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-04-29",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,strategic partnership,share repurchase neg=dilution,impairment,termination,default"
+  },
+  {
+    "ticker": "META",
+    "date": "2026-05-29",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "META",
+    "date": "2026-05-04",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "META",
+    "date": "2026-04-30",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,strategic partnership,share repurchase neg=dilution,supply constraints,impairment,layoff"
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-06-12",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-06-10",
+    "source": "sec_scribe",
+    "form": "424B5",
+    "bullish_score": -7.0,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "424B5: pos=artificial intelligence,data center neg=termination,default"
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-06-10",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": -3.0,
+    "risk_score": 8.0,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "GOOG",
+    "date": "2026-06-11",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": -3.0,
+    "risk_score": 8.0,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=restatement"
+  },
+  {
+    "ticker": "GOOG",
+    "date": "2026-06-05",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": -2.2,
+    "risk_score": 7.2,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=dilution"
+  },
+  {
+    "ticker": "GOOG",
+    "date": "2026-06-05",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ANET",
+    "date": "2026-06-02",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ANET",
+    "date": "2026-05-06",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,strategic partnership,share repurchase neg=dilution,restatement,supply constraints,pricing pressure"
+  },
+  {
+    "ticker": "ANET",
+    "date": "2026-05-05",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MU",
+    "date": "2026-06-09",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MU",
+    "date": "2026-04-01",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MU",
+    "date": "2026-03-25",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "LRCX",
+    "date": "2026-04-23",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,share repurchase neg=impairment,restructuring,termination,default"
+  },
+  {
+    "ticker": "LRCX",
+    "date": "2026-04-22",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "LRCX",
+    "date": "2026-02-03",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AMAT",
+    "date": "2026-05-21",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,backlog neg=subpoena,impairment,restructuring,termination"
+  },
+  {
+    "ticker": "AMAT",
+    "date": "2026-05-14",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AMAT",
+    "date": "2026-03-13",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "KLAC",
+    "date": "2026-06-12",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "KLAC",
+    "date": "2026-05-07",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "KLAC",
+    "date": "2026-04-30",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,backlog,share repurchase neg=impairment,restructuring,termination,default"
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2026-04-29",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center neg=supply constraints,impairment,restructuring,termination"
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2026-04-29",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2026-03-19",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TSM",
+    "date": "2022-04-18",
+    "source": "sec_scribe",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "424B5: pos= neg=impairment,termination,default"
+  },
+  {
+    "ticker": "TSM",
+    "date": "2021-10-18",
+    "source": "sec_scribe",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "424B5: pos= neg=pricing pressure,impairment,termination,default"
+  },
+  {
+    "ticker": "MPWR",
+    "date": "2026-06-12",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MPWR",
+    "date": "2026-05-04",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence neg=dilution,material weakness,termination,default"
+  },
+  {
+    "ticker": "MPWR",
+    "date": "2026-04-30",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MRVL",
+    "date": "2026-06-11",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MRVL",
+    "date": "2026-05-28",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,strategic partnership,share repurchase neg=dilution,supply constraints,pricing pressure,impairment"
+  },
+  {
+    "ticker": "MRVL",
+    "date": "2026-05-27",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "VRT",
+    "date": "2026-06-12",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "VRT",
+    "date": "2026-06-03",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "VRT",
+    "date": "2026-04-27",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ETN",
+    "date": "2026-06-11",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 3.4,
+    "risk_score": 1.6,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=termination"
+  },
+  {
+    "ticker": "ETN",
+    "date": "2026-05-05",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -2.0,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,backlog,share repurchase neg=dilution,impairment,restructuring,termination"
+  },
+  {
+    "ticker": "ETN",
+    "date": "2026-05-05",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "PWR",
+    "date": "2026-05-27",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "PWR",
+    "date": "2026-04-30",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -7.0,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=data center,strong demand,backlog neg=impairment,termination,default"
+  },
+  {
+    "ticker": "PWR",
+    "date": "2026-04-30",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "HUBB",
+    "date": "2026-06-09",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "HUBB",
+    "date": "2026-06-08",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": -2.2,
+    "risk_score": 7.2,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=impairment,default"
+  },
+  {
+    "ticker": "HUBB",
+    "date": "2026-05-15",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": -6.2,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=impairment,default"
+  },
+  {
+    "ticker": "GEV",
+    "date": "2026-05-22",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "GEV",
+    "date": "2026-04-22",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=backlog,share repurchase neg=impairment,restructuring,termination,default"
+  },
+  {
+    "ticker": "GEV",
+    "date": "2026-04-22",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CAT",
+    "date": "2026-06-11",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CAT",
+    "date": "2026-05-06",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,backlog neg=impairment,restructuring,termination,default"
+  },
+  {
+    "ticker": "CAT",
+    "date": "2026-04-30",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TT",
+    "date": "2026-06-10",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TT",
+    "date": "2026-06-05",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 1.8,
+    "risk_score": 3.2,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=termination"
+  },
+  {
+    "ticker": "TT",
+    "date": "2026-04-30",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": 6.8,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=data center,strong demand,backlog,share repurchase neg=impairment,restructuring"
+  },
+  {
+    "ticker": "APH",
+    "date": "2026-05-22",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "APH",
+    "date": "2026-05-12",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 1.0,
+    "risk_score": 4.0,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "APH",
+    "date": "2026-05-07",
+    "source": "sec_scribe",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "424B5: pos= neg=termination,default"
+  },
+  {
+    "ticker": "NXPI",
+    "date": "2026-06-11",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "NXPI",
+    "date": "2026-04-28",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=backlog,strategic partnership,share repurchase neg=material weakness,impairment,restructuring,termination"
+  },
+  {
+    "ticker": "NXPI",
+    "date": "2026-04-28",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ADI",
+    "date": "2026-05-20",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -9.2,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center neg=impairment,termination,default"
+  },
+  {
+    "ticker": "ADI",
+    "date": "2026-05-20",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ADI",
+    "date": "2026-05-19",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TXN",
+    "date": "2026-06-02",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TXN",
+    "date": "2026-04-24",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": 0.8,
+    "risk_score": 9.6,
+    "confidence": 7,
+    "summary": "10-Q: pos=data center neg=impairment,restructuring"
+  },
+  {
+    "ticker": "TXN",
+    "date": "2026-04-22",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "IBM",
+    "date": "2026-05-28",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "IBM",
+    "date": "2026-05-01",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "IBM",
+    "date": "2026-04-23",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=backlog,margin expansion,strategic partnership,share repurchase neg=dilution,impairment,restructuring,termination"
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2026-06-10",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2026-05-12",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2026-04-06",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CRM",
+    "date": "2026-06-02",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CRM",
+    "date": "2026-06-01",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": -8.6,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=restatement,termination"
+  },
+  {
+    "ticker": "CRM",
+    "date": "2026-05-28",
+    "source": "sec_scribe",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-Q: pos=artificial intelligence,data center,backlog,record revenue neg=dilution,pricing pressure,impairment,restructuring"
+  },
+  {
+    "ticker": "FLEX",
+    "date": "2026-06-12",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "FLEX",
+    "date": "2026-06-02",
+    "source": "sec_scribe",
+    "form": "8-K",
+    "bullish_score": -3.0,
+    "risk_score": 8.0,
+    "confidence": 7,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "FLEX",
+    "date": "2026-05-20",
+    "source": "sec_scribe",
+    "form": "10-K",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 7,
+    "summary": "10-K: pos=artificial intelligence,data center,strong demand,share repurchase neg=dilution,going concern,material weakness,restatement"
+  }
+]
