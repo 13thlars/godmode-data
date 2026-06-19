@@ -14,7 +14,7 @@
     "scribe_risk_threshold": "7.25",
     "winner_lock_mode": "active",
     "winner_lock_min_profit": "0.015",
-    "winner_lock_min_score": "58",
+    "winner_lock_min_score": "55",
     "winner_lock_extra_slots": "2",
     "max_external_score_bonus": "20",
     "max_external_score_penalty": "-30",
