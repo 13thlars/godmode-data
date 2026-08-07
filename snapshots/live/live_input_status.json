@@ -1,14 +1,14 @@
 {
   "status": "ok",
-  "generated_utc": "2026-08-06T13:05:53.266758+00:00",
+  "generated_utc": "2026-08-07T12:01:04.882626+00:00",
   "source": "github_actions",
-  "github_run_id": "31104130202",
-  "github_sha": "26023e19bde92d6c9d934ed47c59cf30831f2c2d",
+  "github_run_id": "31176236474",
+  "github_sha": "1592a77f7df19d733d0e9b0f600d38924bd8e352",
   "macro": {
-    "rows": 5610,
-    "valid_rows": 5610,
+    "rows": 5640,
+    "valid_rows": 5640,
     "unique_tickers": 30,
-    "latest_date": "2026-07-31"
+    "latest_date": "2026-08-07"
   },
   "sec": {
     "rows": 250,
