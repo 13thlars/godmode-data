@@ -101,6 +101,16 @@
   },
   {
     "ticker": "FLEX",
+    "date": "2026-08-07",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 9.05,
+    "risk_score": 0,
+    "confidence": 7,
+    "summary": "8-K: pos=share repurchase neg="
+  },
+  {
+    "ticker": "FLEX",
     "date": "2026-07-31",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -128,16 +138,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-06-12",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 6.8,
-    "risk_score": 0,
-    "confidence": 7,
-    "summary": "8-K: pos=free cash flow neg="
   },
   {
     "ticker": "CAT",
@@ -781,6 +781,16 @@
   },
   {
     "ticker": "GD",
+    "date": "2026-08-07",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "GD",
     "date": "2026-08-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -808,16 +818,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=strong demand,record revenue,backlog,contract award,share repurchase neg=dilution,impairment,litigation"
-  },
-  {
-    "ticker": "GD",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "WFC",
@@ -981,6 +981,16 @@
   },
   {
     "ticker": "LRCX",
+    "date": "2026-08-07",
+    "source": "sec_scribe_v2",
+    "form": "10-K",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-K: pos=artificial intelligence,share repurchase,free cash flow neg=material weakness,restatement,default,impairment,restructuring"
+  },
+  {
+    "ticker": "LRCX",
     "date": "2026-07-29",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1002,16 +1012,6 @@
   {
     "ticker": "LRCX",
     "date": "2026-04-22",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "LRCX",
-    "date": "2026-02-03",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1421,6 +1421,16 @@
   },
   {
     "ticker": "UBER",
+    "date": "2026-08-07",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "UBER",
     "date": "2026-08-05",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1448,16 +1458,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "8-K: pos= neg=default,litigation"
-  },
-  {
-    "ticker": "UBER",
-    "date": "2026-05-11",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "DELL",
@@ -1781,6 +1781,16 @@
   },
   {
     "ticker": "DUK",
+    "date": "2026-08-10",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos=artificial intelligence,data center,share repurchase neg=default,dilution,impairment"
+  },
+  {
+    "ticker": "DUK",
     "date": "2026-08-05",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1802,16 +1812,6 @@
   {
     "ticker": "DUK",
     "date": "2026-08-04",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "DUK",
-    "date": "2026-07-17",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1981,6 +1981,16 @@
   },
   {
     "ticker": "PNW",
+    "date": "2026-08-07",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "PNW",
     "date": "2026-08-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2008,16 +2018,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,data center,free cash flow neg=default,dilution,convertible notes,impairment,litigation"
-  },
-  {
-    "ticker": "PNW",
-    "date": "2026-08-04",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "INTU",
