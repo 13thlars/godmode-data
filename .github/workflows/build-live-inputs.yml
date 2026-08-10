@@ -15,13 +15,14 @@ concurrency:
 
 jobs:
   build-live-inputs:
-    name: Refresh macro and SEC data
+    name: Refresh deterministic macro, SEC, and Quiver data
     runs-on: ubuntu-latest
-    timeout-minutes: 45
+    timeout-minutes: 50
 
     env:
       FRED_API_KEY: ${{ secrets.FRED_API_KEY }}
       SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+      QUIVER_API_KEY: ${{ secrets.QUIVER_API_KEY }}
       PYTHONUNBUFFERED: "1"
 
     steps:
@@ -41,14 +42,12 @@ jobs:
         shell: bash
         run: |
           set -euo pipefail
-          if [[ -z "${FRED_API_KEY:-}" ]]; then
-            echo "FRED_API_KEY repository secret is missing."
-            exit 1
-          fi
-          if [[ -z "${SEC_USER_AGENT:-}" ]]; then
-            echo "SEC_USER_AGENT repository secret is missing."
-            exit 1
-          fi
+          for secret_name in FRED_API_KEY SEC_USER_AGENT QUIVER_API_KEY; do
+            if [[ -z "${!secret_name:-}" ]]; then
+              echo "${secret_name} repository secret is missing."
+              exit 1
+            fi
+          done
 
       - name: Install Python packages
         run: python -m pip install --requirement automation/live_inputs/requirements.txt
@@ -62,17 +61,12 @@ jobs:
           set -euo pipefail
           for attempt in 1 2 3; do
             echo "Macro collection attempt ${attempt}/3"
-            if python automation/live_inputs/godmode_macro_history_factory.py \
-              --start 2023-01-01 \
-              --out generated_live_inputs/macro_history_latest.json; then
-              exit 0
+            if python automation/live_inputs/godmode_macro_history_factory.py               --start 2023-01-01               --out generated_live_inputs/macro_history_latest.json; then
+              break
             fi
-            if [[ "$attempt" -lt 3 ]]; then
-              sleep $((attempt * 60))
-            fi
+            [[ "$attempt" -eq 3 ]] && exit 1
+            sleep $((attempt * 60))
           done
-          echo "Macro collection failed after 3 attempts."
-          exit 1
 
       - name: Build SEC Scribe signals
         shell: bash
@@ -80,27 +74,29 @@ jobs:
           set -euo pipefail
           for attempt in 1 2 3; do
             echo "SEC collection attempt ${attempt}/3"
-            if python automation/live_inputs/godmode_sec_scribe_factory_v2.py \
-              --out generated_live_inputs/sec_scribe_latest.json \
-              --tickers-file automation/live_inputs/godmode_scribe_universe.txt \
-              --user-agent "$SEC_USER_AGENT" \
-              --max-filings 4 \
-              --sleep 0.15; then
-              exit 0
+            if python automation/live_inputs/godmode_sec_scribe_factory_v2.py               --out generated_live_inputs/sec_scribe_latest.json               --tickers-file automation/live_inputs/godmode_scribe_universe.txt               --user-agent "$SEC_USER_AGENT"               --max-filings 4               --sleep 0.15; then
+              break
             fi
-            if [[ "$attempt" -lt 3 ]]; then
-              sleep $((attempt * 90))
-            fi
+            [[ "$attempt" -eq 3 ]] && exit 1
+            sleep $((attempt * 90))
           done
-          echo "SEC collection failed after 3 attempts."
-          exit 1
 
-      - name: Validate new files before publishing
+      - name: Build one shared Quiver snapshot
+        shell: bash
         run: |
-          python automation/live_inputs/validate_live_inputs.py \
-            --macro generated_live_inputs/macro_history_latest.json \
-            --sec generated_live_inputs/sec_scribe_latest.json \
-            --status generated_live_inputs/live_input_status.json
+          set -euo pipefail
+          for attempt in 1 2 3; do
+            echo "Quiver collection attempt ${attempt}/3"
+            if python automation/live_inputs/godmode_quiver_snapshot_collector.py               --out generated_live_inputs/quiver_snapshot_latest.json               --max-rows 20000; then
+              break
+            fi
+            [[ "$attempt" -eq 3 ]] && exit 1
+            sleep $((attempt * 90))
+          done
+
+      - name: Validate all new files before publishing
+        run: |
+          python automation/live_inputs/validate_live_inputs.py             --macro generated_live_inputs/macro_history_latest.json             --sec generated_live_inputs/sec_scribe_latest.json             --quiver generated_live_inputs/quiver_snapshot_latest.json             --status generated_live_inputs/live_input_status.json
 
       - name: Publish validated files into snapshots/live
         shell: bash
@@ -109,6 +105,7 @@ jobs:
           mkdir -p snapshots/live
           cp generated_live_inputs/macro_history_latest.json snapshots/live/macro_history_latest.json
           cp generated_live_inputs/sec_scribe_latest.json snapshots/live/sec_scribe_latest.json
+          cp generated_live_inputs/quiver_snapshot_latest.json snapshots/live/quiver_snapshot_latest.json
           cp generated_live_inputs/live_input_status.json snapshots/live/live_input_status.json
 
       - name: Commit updated live inputs
@@ -117,17 +114,14 @@ jobs:
           set -euo pipefail
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add \
-            snapshots/live/macro_history_latest.json \
-            snapshots/live/sec_scribe_latest.json \
-            snapshots/live/live_input_status.json
+          git add             snapshots/live/macro_history_latest.json             snapshots/live/sec_scribe_latest.json             snapshots/live/quiver_snapshot_latest.json             snapshots/live/live_input_status.json
 
           if git diff --cached --quiet; then
             echo "No live-input changes to commit."
             exit 0
           fi
 
-          git commit -m "Automated GodMode live inputs $(date -u +%Y-%m-%d)"
+          git commit -m "Automated deterministic GodMode live inputs $(date -u +%Y-%m-%d)"
           git pull --rebase origin "${GITHUB_REF_NAME}"
           git push origin "HEAD:${GITHUB_REF_NAME}"
 
@@ -135,7 +129,7 @@ jobs:
         if: always()
         shell: bash
         run: |
-          echo "## GodMode live-input refresh" >> "$GITHUB_STEP_SUMMARY"
+          echo "## GodMode deterministic live-input refresh" >> "$GITHUB_STEP_SUMMARY"
           echo "- Run time: $(date -u +'%Y-%m-%d %H:%M:%S UTC')" >> "$GITHUB_STEP_SUMMARY"
           if [[ -f generated_live_inputs/live_input_status.json ]]; then
             echo "- Validation: passed" >> "$GITHUB_STEP_SUMMARY"
@@ -145,4 +139,3 @@ jobs:
           else
             echo "- Validation: failed or did not finish" >> "$GITHUB_STEP_SUMMARY"
           fi
-
