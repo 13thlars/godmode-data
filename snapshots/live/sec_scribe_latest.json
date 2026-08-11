@@ -421,6 +421,16 @@
   },
   {
     "ticker": "NEE",
+    "date": "2026-08-11",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 0.8,
+    "risk_score": 2.7,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "NEE",
     "date": "2026-07-24",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -442,16 +452,6 @@
   {
     "ticker": "NEE",
     "date": "2026-07-08",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "NEE",
-    "date": "2026-06-22",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -2101,6 +2101,16 @@
   },
   {
     "ticker": "GOOG",
+    "date": "2026-08-10",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "GOOG",
     "date": "2026-08-06",
     "source": "sec_scribe_v2",
     "form": "424B5",
@@ -2128,16 +2138,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,data center,backlog,share repurchase neg=default,dilution,at-the-market offering,impairment,regulatory investigation"
-  },
-  {
-    "ticker": "GOOG",
-    "date": "2026-07-22",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "KLAC",
