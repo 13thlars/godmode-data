@@ -1861,6 +1861,16 @@
   },
   {
     "ticker": "AXP",
+    "date": "2026-08-12",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AXP",
     "date": "2026-08-05",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1890,14 +1900,24 @@
     "summary": "8-K: pos=artificial intelligence,strategic partnership,share repurchase neg=impairment,restructuring,layoff,litigation,cybersecurity incident"
   },
   {
-    "ticker": "AXP",
-    "date": "2026-07-15",
+    "ticker": "CRS",
+    "date": "2026-08-12",
     "source": "sec_scribe_v2",
     "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CRS",
+    "date": "2026-08-12",
+    "source": "sec_scribe_v2",
+    "form": "10-K",
     "bullish_score": -10,
     "risk_score": 10,
     "confidence": 8,
-    "summary": "8-K: pos= neg=default"
+    "summary": "10-K: pos=artificial intelligence,margin expansion,share repurchase,free cash flow neg=material weakness,restatement,default,impairment,restructuring"
   },
   {
     "ticker": "CRS",
@@ -1912,26 +1932,6 @@
   {
     "ticker": "CRS",
     "date": "2026-07-30",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "CRS",
-    "date": "2026-07-28",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "CRS",
-    "date": "2026-04-29",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
