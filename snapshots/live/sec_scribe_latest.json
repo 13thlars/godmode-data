@@ -1021,6 +1021,16 @@
   },
   {
     "ticker": "AMAT",
+    "date": "2026-08-13",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AMAT",
     "date": "2026-05-21",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1048,16 +1058,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "AMAT",
-    "date": "2026-02-19",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,backlog,share repurchase neg=default,subpoena,impairment,restructuring,litigation"
   },
   {
     "ticker": "PYPL",
@@ -1781,6 +1781,16 @@
   },
   {
     "ticker": "DUK",
+    "date": "2026-08-13",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "DUK",
     "date": "2026-08-12",
     "source": "sec_scribe_v2",
     "form": "424B5",
@@ -1808,16 +1818,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "DUK",
-    "date": "2026-08-04",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center neg=default,dilution,convertible notes,impairment,litigation"
   },
   {
     "ticker": "JPM",
@@ -1981,6 +1981,16 @@
   },
   {
     "ticker": "PNW",
+    "date": "2026-08-13",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "PNW",
     "date": "2026-08-07",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2008,16 +2018,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "424B5: pos=artificial intelligence,data center neg=default,dilution,litigation"
-  },
-  {
-    "ticker": "PNW",
-    "date": "2026-08-04",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,free cash flow neg=default,dilution,convertible notes,impairment,litigation"
   },
   {
     "ticker": "INTU",
