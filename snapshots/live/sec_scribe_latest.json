@@ -1,6 +1,16 @@
 [
   {
     "ticker": "NVDA",
+    "date": "2026-08-17",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 1.2,
+    "risk_score": 3.6,
+    "confidence": 8,
+    "summary": "8-K: pos=data center neg=default"
+  },
+  {
+    "ticker": "NVDA",
     "date": "2026-07-02",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -28,16 +38,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "NVDA",
-    "date": "2026-06-17",
-    "source": "sec_scribe_v2",
-    "form": "424B5",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "424B5: pos=artificial intelligence,data center,accelerated computing neg=default"
   },
   {
     "ticker": "ANET",
@@ -341,6 +341,16 @@
   },
   {
     "ticker": "T",
+    "date": "2026-08-17",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "T",
     "date": "2026-08-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -368,16 +378,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence neg=dilution,impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "T",
-    "date": "2026-07-22",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "GS",
@@ -1861,6 +1861,16 @@
   },
   {
     "ticker": "AXP",
+    "date": "2026-08-17",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "AXP",
     "date": "2026-08-12",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1888,16 +1898,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,strategic partnership,share repurchase neg=default,subpoena,impairment,restructuring,layoff"
-  },
-  {
-    "ticker": "AXP",
-    "date": "2026-07-24",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "8-K: pos=artificial intelligence,strategic partnership,share repurchase neg=impairment,restructuring,layoff,litigation,cybersecurity incident"
   },
   {
     "ticker": "CRS",
