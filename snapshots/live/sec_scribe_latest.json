@@ -821,6 +821,16 @@
   },
   {
     "ticker": "WFC",
+    "date": "2026-08-19",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "WFC",
     "date": "2026-07-28",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -848,16 +858,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "WFC",
-    "date": "2026-04-30",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": -2.7,
-    "risk_score": 4.95,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=restatement,litigation"
   },
   {
     "ticker": "MCK",
@@ -901,6 +901,16 @@
   },
   {
     "ticker": "MRVL",
+    "date": "2026-08-19",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MRVL",
     "date": "2026-07-09",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -928,16 +938,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "MRVL",
-    "date": "2026-05-28",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,strategic partnership,share repurchase neg=default,dilution,impairment,pricing pressure,restructuring"
   },
   {
     "ticker": "AAPL",
