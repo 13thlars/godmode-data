@@ -51028,5 +51028,275 @@
     "risk_score": 3.1,
     "confidence": 7,
     "summary": "rising real yields; credit spreads widening; volatility easing; dollar easing; liquidity improving"
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "AVGO",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "META",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "GOOG",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "ANET",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "MU",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "LRCX",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "AMAT",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "KLAC",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "TSM",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "MPWR",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "MRVL",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "VRT",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "ETN",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "PWR",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "HUBB",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "GEV",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "CAT",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "TT",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "APH",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "NXPI",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "ADI",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "TXN",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "IBM",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "CRM",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
+  },
+  {
+    "ticker": "FLEX",
+    "date": "2026-08-21",
+    "source": "macro_chronos",
+    "bullish_score": 5.4,
+    "risk_score": 2.7,
+    "confidence": 7,
+    "summary": "falling real yields; credit spreads widening; volatility easing; dollar easing; claims deteriorating"
   }
 ]

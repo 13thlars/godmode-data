@@ -1021,6 +1021,16 @@
   },
   {
     "ticker": "AMAT",
+    "date": "2026-08-20",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,backlog,share repurchase neg=default,subpoena,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "AMAT",
     "date": "2026-08-13",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1042,16 +1052,6 @@
   {
     "ticker": "AMAT",
     "date": "2026-05-14",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "AMAT",
-    "date": "2026-03-13",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1141,6 +1141,16 @@
   },
   {
     "ticker": "ABT",
+    "date": "2026-08-20",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 0.8,
+    "risk_score": 2.7,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "ABT",
     "date": "2026-07-28",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1168,16 +1178,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=share repurchase neg=impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "ABT",
-    "date": "2026-04-27",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "TXN",
