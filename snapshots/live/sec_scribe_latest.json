@@ -861,6 +861,16 @@
   },
   {
     "ticker": "MCK",
+    "date": "2026-08-28",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.2,
+    "risk_score": 1.8,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=cybersecurity incident"
+  },
+  {
+    "ticker": "MCK",
     "date": "2026-08-05",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -890,14 +900,14 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "MCK",
-    "date": "2026-07-01",
+    "ticker": "MRVL",
+    "date": "2026-08-28",
     "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,data center,strategic partnership,share repurchase neg=default,dilution,impairment,pricing pressure,restructuring"
   },
   {
     "ticker": "MRVL",
@@ -922,16 +932,6 @@
   {
     "ticker": "MRVL",
     "date": "2026-07-09",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "MRVL",
-    "date": "2026-06-25",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -981,6 +981,16 @@
   },
   {
     "ticker": "LRCX",
+    "date": "2026-08-27",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "LRCX",
     "date": "2026-08-07",
     "source": "sec_scribe_v2",
     "form": "10-K",
@@ -1008,16 +1018,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,share repurchase neg=default,impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "LRCX",
-    "date": "2026-04-22",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "AMAT",
@@ -1741,6 +1741,16 @@
   },
   {
     "ticker": "MO",
+    "date": "2026-08-28",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MO",
     "date": "2026-07-30",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1768,16 +1778,6 @@
     "risk_score": 3.6,
     "confidence": 8,
     "summary": "10-K/A: pos= neg=restatement"
-  },
-  {
-    "ticker": "MO",
-    "date": "2026-05-18",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "DUK",
@@ -2341,6 +2341,16 @@
   },
   {
     "ticker": "NXPI",
+    "date": "2026-08-28",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "NXPI",
     "date": "2026-07-28",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -2368,16 +2378,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "NXPI",
-    "date": "2026-04-28",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=backlog,strategic partnership,share repurchase,free cash flow neg=material weakness,impairment,restructuring,litigation"
   },
   {
     "ticker": "ORCL",
