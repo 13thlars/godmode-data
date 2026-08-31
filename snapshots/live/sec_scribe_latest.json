@@ -1661,6 +1661,16 @@
   },
   {
     "ticker": "SLB",
+    "date": "2026-08-31",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.2,
+    "risk_score": 1.8,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=pricing pressure"
+  },
+  {
+    "ticker": "SLB",
     "date": "2026-07-29",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1688,16 +1698,6 @@
     "risk_score": 1.8,
     "confidence": 8,
     "summary": "8-K: pos=share repurchase,free cash flow neg=pricing pressure"
-  },
-  {
-    "ticker": "SLB",
-    "date": "2026-05-12",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "LLY",
