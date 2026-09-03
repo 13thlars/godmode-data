@@ -1,6 +1,16 @@
 [
   {
     "ticker": "NVDA",
+    "date": "2026-09-03",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "NVDA",
     "date": "2026-08-26",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -28,16 +38,6 @@
     "risk_score": 3.6,
     "confidence": 8,
     "summary": "8-K: pos=data center neg=default"
-  },
-  {
-    "ticker": "NVDA",
-    "date": "2026-07-02",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "ANET",
@@ -461,6 +461,16 @@
   },
   {
     "ticker": "MSFT",
+    "date": "2026-09-02",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MSFT",
     "date": "2026-07-29",
     "source": "sec_scribe_v2",
     "form": "10-K",
@@ -482,16 +492,6 @@
   {
     "ticker": "MSFT",
     "date": "2026-06-05",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "MSFT",
-    "date": "2026-05-14",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1621,6 +1621,16 @@
   },
   {
     "ticker": "AVGO",
+    "date": "2026-09-02",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AVGO",
     "date": "2026-07-06",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1648,16 +1658,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "AVGO",
-    "date": "2026-06-09",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,strategic partnership,free cash flow neg=default,impairment,pricing pressure,restructuring,regulatory investigation"
   },
   {
     "ticker": "SLB",
@@ -2341,6 +2341,16 @@
   },
   {
     "ticker": "NXPI",
+    "date": "2026-09-02",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -0.6,
+    "risk_score": 3.6,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "NXPI",
     "date": "2026-08-28",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2362,16 +2372,6 @@
   {
     "ticker": "NXPI",
     "date": "2026-07-28",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "NXPI",
-    "date": "2026-06-11",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
