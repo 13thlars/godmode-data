@@ -101,6 +101,16 @@
   },
   {
     "ticker": "FLEX",
+    "date": "2026-09-04",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "FLEX",
     "date": "2026-08-07",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -128,16 +138,6 @@
     "risk_score": 1.35,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "CAT",
@@ -421,6 +421,16 @@
   },
   {
     "ticker": "NEE",
+    "date": "2026-09-03",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "NEE",
     "date": "2026-08-25",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -448,16 +458,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence neg=default,dilution,impairment,litigation"
-  },
-  {
-    "ticker": "NEE",
-    "date": "2026-07-24",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "MSFT",
@@ -621,6 +621,16 @@
   },
   {
     "ticker": "TMUS",
+    "date": "2026-09-03",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TMUS",
     "date": "2026-07-23",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -642,16 +652,6 @@
   {
     "ticker": "TMUS",
     "date": "2026-07-07",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "TMUS",
-    "date": "2026-06-18",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1981,6 +1981,16 @@
   },
   {
     "ticker": "PNW",
+    "date": "2026-09-04",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "PNW",
     "date": "2026-08-13",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2008,16 +2018,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "PNW",
-    "date": "2026-08-04",
-    "source": "sec_scribe_v2",
-    "form": "424B5",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "424B5: pos=artificial intelligence,data center neg=default,dilution,litigation"
   },
   {
     "ticker": "INTU",
@@ -2301,6 +2301,16 @@
   },
   {
     "ticker": "APH",
+    "date": "2026-09-04",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "APH",
     "date": "2026-08-06",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2328,16 +2338,6 @@
     "risk_score": 1.35,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "APH",
-    "date": "2026-05-22",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "NXPI",
@@ -2421,6 +2421,16 @@
   },
   {
     "ticker": "CRM",
+    "date": "2026-09-04",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CRM",
     "date": "2026-08-27",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -2442,16 +2452,6 @@
   {
     "ticker": "CRM",
     "date": "2026-08-05",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "CRM",
-    "date": "2026-06-02",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,

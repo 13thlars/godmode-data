@@ -51568,5 +51568,275 @@
     "risk_score": 0,
     "confidence": 7,
     "summary": "credit easing; volatility easing; dollar easing"
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "AVGO",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "META",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "GOOG",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "ANET",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "MU",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "LRCX",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "AMAT",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "KLAC",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "TSM",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "MPWR",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "MRVL",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "VRT",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "ETN",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "PWR",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "HUBB",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "GEV",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "CAT",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "TT",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "APH",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "NXPI",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "ADI",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "TXN",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "IBM",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "CRM",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
+  },
+  {
+    "ticker": "FLEX",
+    "date": "2026-09-04",
+    "source": "macro_chronos",
+    "bullish_score": 4.7,
+    "risk_score": 2.4,
+    "confidence": 7,
+    "summary": "credit spreads widening; volatility easing; dollar easing; oil pressure"
   }
 ]
