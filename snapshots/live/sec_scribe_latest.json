@@ -541,6 +541,16 @@
   },
   {
     "ticker": "QCOM",
+    "date": "2026-09-08",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "QCOM",
     "date": "2026-07-31",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -562,16 +572,6 @@
   {
     "ticker": "QCOM",
     "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "QCOM",
-    "date": "2026-06-24",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
