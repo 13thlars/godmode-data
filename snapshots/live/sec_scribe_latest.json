@@ -301,6 +301,16 @@
   },
   {
     "ticker": "AMZN",
+    "date": "2026-09-09",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos=artificial intelligence,data center neg=default,litigation"
+  },
+  {
+    "ticker": "AMZN",
     "date": "2026-07-31",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -328,16 +338,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "AMZN",
-    "date": "2026-07-08",
-    "source": "sec_scribe_v2",
-    "form": "424B5",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "424B5: pos=artificial intelligence,data center neg=default,litigation"
   },
   {
     "ticker": "T",
@@ -1461,6 +1461,16 @@
   },
   {
     "ticker": "DELL",
+    "date": "2026-09-08",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -8.8,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,data center,backlog,share repurchase,free cash flow neg=default,impairment,litigation"
+  },
+  {
+    "ticker": "DELL",
     "date": "2026-09-01",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1482,16 +1492,6 @@
   {
     "ticker": "DELL",
     "date": "2026-07-01",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "DELL",
-    "date": "2026-06-17",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -2061,6 +2061,16 @@
   },
   {
     "ticker": "ADI",
+    "date": "2026-09-09",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ADI",
     "date": "2026-08-19",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -2088,16 +2098,6 @@
     "risk_score": 9.9,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation,cybersecurity incident"
-  },
-  {
-    "ticker": "ADI",
-    "date": "2026-07-02",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=default"
   },
   {
     "ticker": "GOOG",
