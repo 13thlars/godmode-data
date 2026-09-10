@@ -303,6 +303,16 @@
     "ticker": "AMZN",
     "date": "2026-09-09",
     "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-09-09",
+    "source": "sec_scribe_v2",
     "form": "424B5",
     "bullish_score": -10,
     "risk_score": 10,
@@ -330,8 +340,8 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "AMZN",
-    "date": "2026-07-09",
+    "ticker": "T",
+    "date": "2026-09-09",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -368,16 +378,6 @@
     "risk_score": 3.6,
     "confidence": 8,
     "summary": "8-K: pos= neg=default"
-  },
-  {
-    "ticker": "T",
-    "date": "2026-07-22",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence neg=dilution,impairment,restructuring,litigation"
   },
   {
     "ticker": "GS",
@@ -1221,6 +1221,16 @@
   },
   {
     "ticker": "MELI",
+    "date": "2026-09-10",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MELI",
     "date": "2026-08-06",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1248,16 +1258,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "MELI",
-    "date": "2026-05-08",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -6.4,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,free cash flow neg=impairment,litigation"
   },
   {
     "ticker": "BMY",
@@ -1621,6 +1621,16 @@
   },
   {
     "ticker": "AVGO",
+    "date": "2026-09-10",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,strategic partnership,free cash flow neg=default,convertible notes,impairment,pricing pressure,restructuring"
+  },
+  {
+    "ticker": "AVGO",
     "date": "2026-09-02",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1642,16 +1652,6 @@
   {
     "ticker": "AVGO",
     "date": "2026-06-18",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "AVGO",
-    "date": "2026-06-11",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -2021,6 +2021,16 @@
   },
   {
     "ticker": "INTU",
+    "date": "2026-09-09",
+    "source": "sec_scribe_v2",
+    "form": "10-K",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-K: pos=artificial intelligence,record revenue,backlog,strategic partnership,share repurchase neg=material weakness,restatement,default,dilution,impairment"
+  },
+  {
+    "ticker": "INTU",
     "date": "2026-08-25",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2042,16 +2052,6 @@
   {
     "ticker": "INTU",
     "date": "2026-06-10",
-    "source": "sec_scribe_v2",
-    "form": "424B5",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "424B5: pos=artificial intelligence neg=default,restructuring,litigation"
-  },
-  {
-    "ticker": "INTU",
-    "date": "2026-06-08",
     "source": "sec_scribe_v2",
     "form": "424B5",
     "bullish_score": -10,
