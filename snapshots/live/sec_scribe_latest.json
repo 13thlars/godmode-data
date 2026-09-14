@@ -301,6 +301,16 @@
   },
   {
     "ticker": "AMZN",
+    "date": "2026-09-11",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos=artificial intelligence,data center neg=default,litigation"
+  },
+  {
+    "ticker": "AMZN",
     "date": "2026-09-09",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -328,16 +338,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,data center,record revenue,free cash flow neg=default,convertible notes,impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "AMZN",
-    "date": "2026-07-30",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "T",
@@ -1381,6 +1381,26 @@
   },
   {
     "ticker": "TDG",
+    "date": "2026-09-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "TDG",
+    "date": "2026-09-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 0.8,
+    "risk_score": 2.7,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "TDG",
     "date": "2026-08-04",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1392,26 +1412,6 @@
   {
     "ticker": "TDG",
     "date": "2026-08-04",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "TDG",
-    "date": "2026-07-27",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "TDG",
-    "date": "2026-07-24",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -2381,6 +2381,26 @@
   },
   {
     "ticker": "ORCL",
+    "date": "2026-09-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2026-09-11",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -8.8,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,data center,free cash flow neg=impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "ORCL",
     "date": "2026-09-10",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2398,26 +2418,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "424B5: pos= neg="
-  },
-  {
-    "ticker": "ORCL",
-    "date": "2026-06-22",
-    "source": "sec_scribe_v2",
-    "form": "10-K",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-K: pos=artificial intelligence,data center,contract award,free cash flow neg=material weakness,restatement,default,dilution,impairment"
-  },
-  {
-    "ticker": "ORCL",
-    "date": "2026-06-10",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "CRM",
