@@ -101,6 +101,16 @@
   },
   {
     "ticker": "FLEX",
+    "date": "2026-09-15",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "FLEX",
     "date": "2026-09-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -128,16 +138,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=data center,strong demand,margin expansion,backlog,share repurchase neg=default,dilution,impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 2.9,
-    "risk_score": 1.35,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation"
   },
   {
     "ticker": "CAT",
@@ -301,6 +301,16 @@
   },
   {
     "ticker": "AMZN",
+    "date": "2026-09-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AMZN",
     "date": "2026-09-11",
     "source": "sec_scribe_v2",
     "form": "424B5",
@@ -328,16 +338,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "424B5: pos=artificial intelligence,data center neg=default,litigation"
-  },
-  {
-    "ticker": "AMZN",
-    "date": "2026-07-31",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,record revenue,free cash flow neg=default,convertible notes,impairment,restructuring,litigation"
   },
   {
     "ticker": "T",
@@ -421,6 +421,16 @@
   },
   {
     "ticker": "NEE",
+    "date": "2026-09-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "NEE",
     "date": "2026-09-03",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -448,16 +458,6 @@
     "risk_score": 2.7,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "NEE",
-    "date": "2026-07-24",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence neg=default,dilution,impairment,litigation"
   },
   {
     "ticker": "MSFT",
@@ -1221,6 +1221,16 @@
   },
   {
     "ticker": "MELI",
+    "date": "2026-09-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MELI",
     "date": "2026-09-10",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1242,16 +1252,6 @@
   {
     "ticker": "MELI",
     "date": "2026-08-05",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "MELI",
-    "date": "2026-06-12",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1384,6 +1384,16 @@
     "date": "2026-09-14",
     "source": "sec_scribe_v2",
     "form": "8-K",
+    "bullish_score": 0.8,
+    "risk_score": 2.7,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "TDG",
+    "date": "2026-09-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
     "bullish_score": 2.9,
     "risk_score": 1.35,
     "confidence": 8,
@@ -1408,16 +1418,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=backlog,share repurchase neg=default,impairment,litigation"
-  },
-  {
-    "ticker": "TDG",
-    "date": "2026-08-04",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "UBER",
@@ -1861,6 +1861,16 @@
   },
   {
     "ticker": "AXP",
+    "date": "2026-09-15",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "AXP",
     "date": "2026-08-17",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1888,16 +1898,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "AXP",
-    "date": "2026-07-24",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,strategic partnership,share repurchase neg=default,subpoena,impairment,restructuring,layoff"
   },
   {
     "ticker": "CRS",

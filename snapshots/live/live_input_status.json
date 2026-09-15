@@ -1,9 +1,9 @@
 {
   "status": "ok",
-  "generated_utc": "2026-09-14T17:01:11.317682+00:00",
+  "generated_utc": "2026-09-15T15:36:45.392716+00:00",
   "source": "github_actions_deterministic_ab",
-  "github_run_id": "34871831677",
-  "github_sha": "a30efe4eac770894c8bd86815b4e2564cbc20592",
+  "github_run_id": "34989330200",
+  "github_sha": "84c320ee188e3890b38dd730ea2ddc03295c33d3",
   "macro": {
     "rows": 5790,
     "valid_rows": 5790,
@@ -15,24 +15,24 @@
     "valid_rows": 250,
     "successful_rows": 250,
     "successful_tickers": 63,
-    "latest_date": "2026-09-14"
+    "latest_date": "2026-09-15"
   },
   "quiver": {
     "endpoints": 10,
     "nonempty_endpoints": 10,
-    "total_rows": 82985,
+    "total_rows": 82974,
     "rows_by_endpoint": {
       "insider": 20000,
       "contracts": 20000,
       "congress": 1000,
       "senate": 5000,
       "news": 30,
-      "offexchange": 5554,
+      "offexchange": 5543,
       "lobbying": 20000,
       "patents": 901,
       "13f": 10000,
       "donations": 500
     },
-    "created_utc": "2026-09-14T17:00:41.804447+00:00"
+    "created_utc": "2026-09-15T15:36:29.482295+00:00"
   }
 }
