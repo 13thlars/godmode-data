@@ -1421,6 +1421,16 @@
   },
   {
     "ticker": "UBER",
+    "date": "2026-09-15",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "UBER",
     "date": "2026-08-07",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1450,14 +1460,14 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "UBER",
-    "date": "2026-07-16",
+    "ticker": "DELL",
+    "date": "2026-09-15",
     "source": "sec_scribe_v2",
     "form": "8-K",
-    "bullish_score": -10,
-    "risk_score": 10,
+    "bullish_score": -0.6,
+    "risk_score": 3.6,
     "confidence": 8,
-    "summary": "8-K: pos= neg=default,litigation"
+    "summary": "8-K: pos= neg=default"
   },
   {
     "ticker": "DELL",
@@ -1490,8 +1500,8 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "DELL",
-    "date": "2026-07-06",
+    "ticker": "PWR",
+    "date": "2026-09-15",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1528,16 +1538,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "PWR",
-    "date": "2026-08-03",
-    "source": "sec_scribe_v2",
-    "form": "424B5",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "424B5: pos=data center,backlog neg=default,impairment,restructuring,litigation"
   },
   {
     "ticker": "GM",
