@@ -1181,6 +1181,16 @@
   },
   {
     "ticker": "TXN",
+    "date": "2026-09-17",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TXN",
     "date": "2026-07-24",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1208,16 +1218,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "TXN",
-    "date": "2026-04-24",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -1.4,
-    "risk_score": 9.9,
-    "confidence": 8,
-    "summary": "10-Q: pos=data center,free cash flow neg=impairment,restructuring,litigation"
   },
   {
     "ticker": "MELI",
@@ -2061,6 +2061,16 @@
   },
   {
     "ticker": "ADI",
+    "date": "2026-09-17",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -0.6,
+    "risk_score": 3.6,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "ADI",
     "date": "2026-09-09",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2088,16 +2098,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "ADI",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": -10,
-    "risk_score": 9.9,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation,cybersecurity incident"
   },
   {
     "ticker": "GOOG",

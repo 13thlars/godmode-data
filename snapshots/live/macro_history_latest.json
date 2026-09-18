@@ -52108,5 +52108,275 @@
     "risk_score": 5.3,
     "confidence": 7,
     "summary": "rising real yields; credit spreads widening; volatility rising; dollar easing; oil pressure; liquidity tightening"
+  },
+  {
+    "ticker": "NVDA",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "AVGO",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "MSFT",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "META",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "AMZN",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "GOOG",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "ANET",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "MU",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "LRCX",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "AMAT",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "KLAC",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "QCOM",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "TSM",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "MPWR",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "MRVL",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "VRT",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "ETN",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "PWR",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "HUBB",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "GEV",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "CAT",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "TT",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "APH",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "NXPI",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "ADI",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "TXN",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "IBM",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "ORCL",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "CRM",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
+  },
+  {
+    "ticker": "FLEX",
+    "date": "2026-09-18",
+    "source": "macro_chronos",
+    "bullish_score": 5.9,
+    "risk_score": 1.9,
+    "confidence": 7,
+    "summary": "rising real yields; credit easing; oil pressure; claims improving"
   }
 ]
