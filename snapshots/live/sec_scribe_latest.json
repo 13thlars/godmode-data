@@ -1301,6 +1301,16 @@
   },
   {
     "ticker": "VZ",
+    "date": "2026-09-29",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "VZ",
     "date": "2026-07-31",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1328,16 +1338,6 @@
     "risk_score": 0,
     "confidence": 7,
     "summary": "8-K: pos=free cash flow neg="
-  },
-  {
-    "ticker": "VZ",
-    "date": "2026-06-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 2.9,
-    "risk_score": 1.35,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation"
   },
   {
     "ticker": "MA",
