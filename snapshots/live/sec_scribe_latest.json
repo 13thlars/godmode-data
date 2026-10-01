@@ -261,6 +261,16 @@
   },
   {
     "ticker": "MU",
+    "date": "2026-09-30",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MU",
     "date": "2026-08-26",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -282,16 +292,6 @@
   {
     "ticker": "MU",
     "date": "2026-06-24",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "MU",
-    "date": "2026-06-09",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1981,6 +1981,16 @@
   },
   {
     "ticker": "PNW",
+    "date": "2026-09-30",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "PNW",
     "date": "2026-09-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2002,16 +2012,6 @@
   {
     "ticker": "PNW",
     "date": "2026-08-07",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "PNW",
-    "date": "2026-08-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
