@@ -101,6 +101,26 @@
   },
   {
     "ticker": "FLEX",
+    "date": "2026-10-05",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "FLEX",
+    "date": "2026-10-02",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -8.3,
+    "risk_score": 8.55,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default,litigation"
+  },
+  {
+    "ticker": "FLEX",
     "date": "2026-09-15",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -118,26 +138,6 @@
     "risk_score": 1.35,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-08-07",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 9.05,
-    "risk_score": 0,
-    "confidence": 7,
-    "summary": "8-K: pos=share repurchase neg="
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-07-31",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=data center,strong demand,margin expansion,backlog,share repurchase neg=default,dilution,impairment,restructuring,litigation"
   },
   {
     "ticker": "CAT",
@@ -541,6 +541,16 @@
   },
   {
     "ticker": "QCOM",
+    "date": "2026-10-02",
+    "source": "sec_scribe_v2",
+    "form": "S-3",
+    "bullish_score": 5.6,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "S-3: pos=artificial intelligence,data center neg=litigation"
+  },
+  {
+    "ticker": "QCOM",
     "date": "2026-09-08",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -568,16 +578,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,data center neg=default,impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "QCOM",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "MPWR",
@@ -741,6 +741,16 @@
   },
   {
     "ticker": "ETN",
+    "date": "2026-10-05",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ETN",
     "date": "2026-07-31",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -768,16 +778,6 @@
     "risk_score": 4.05,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "ETN",
-    "date": "2026-05-05",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -2.7,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,backlog,share repurchase neg=dilution,impairment,restructuring,litigation"
   },
   {
     "ticker": "GD",
