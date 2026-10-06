@@ -861,6 +861,16 @@
   },
   {
     "ticker": "MCK",
+    "date": "2026-10-06",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -0.6,
+    "risk_score": 3.6,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "MCK",
     "date": "2026-08-28",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -882,16 +892,6 @@
   {
     "ticker": "MCK",
     "date": "2026-08-05",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "MCK",
-    "date": "2026-07-24",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
