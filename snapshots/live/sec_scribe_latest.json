@@ -421,6 +421,16 @@
   },
   {
     "ticker": "NEE",
+    "date": "2026-10-06",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "NEE",
     "date": "2026-09-14",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -448,16 +458,6 @@
     "risk_score": 2.7,
     "confidence": 8,
     "summary": "8-K: pos=free cash flow neg=litigation"
-  },
-  {
-    "ticker": "NEE",
-    "date": "2026-08-11",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 0.8,
-    "risk_score": 2.7,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation"
   },
   {
     "ticker": "MSFT",
@@ -1661,6 +1661,16 @@
   },
   {
     "ticker": "SLB",
+    "date": "2026-10-06",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "SLB",
     "date": "2026-08-31",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1688,16 +1698,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "SLB",
-    "date": "2026-06-10",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 4.45,
-    "risk_score": 1.8,
-    "confidence": 8,
-    "summary": "8-K: pos=share repurchase,free cash flow neg=pricing pressure"
   },
   {
     "ticker": "LLY",
@@ -2301,6 +2301,16 @@
   },
   {
     "ticker": "APH",
+    "date": "2026-10-06",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "APH",
     "date": "2026-09-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2328,16 +2338,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,backlog,free cash flow neg=default,impairment,litigation"
-  },
-  {
-    "ticker": "APH",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 2.9,
-    "risk_score": 1.35,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation"
   },
   {
     "ticker": "NXPI",
