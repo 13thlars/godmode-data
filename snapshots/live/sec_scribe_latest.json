@@ -781,6 +781,16 @@
   },
   {
     "ticker": "GD",
+    "date": "2026-10-08",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "GD",
     "date": "2026-08-07",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -808,16 +818,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "424B5: pos=backlog,contract award neg=default,dilution,litigation"
-  },
-  {
-    "ticker": "GD",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": 0.1,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=strong demand,record revenue,backlog,contract award,share repurchase neg=dilution,impairment,litigation"
   },
   {
     "ticker": "WFC",
