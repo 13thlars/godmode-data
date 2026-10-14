@@ -101,6 +101,26 @@
   },
   {
     "ticker": "FLEX",
+    "date": "2026-10-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -8.3,
+    "risk_score": 8.55,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default,litigation"
+  },
+  {
+    "ticker": "FLEX",
+    "date": "2026-10-13",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "FLEX",
     "date": "2026-10-05",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -118,26 +138,6 @@
     "risk_score": 8.55,
     "confidence": 8,
     "summary": "8-K: pos= neg=default,litigation"
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-09-15",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 2.9,
-    "risk_score": 1.35,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-09-04",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 2.9,
-    "risk_score": 1.35,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation"
   },
   {
     "ticker": "CAT",
@@ -701,6 +701,16 @@
   },
   {
     "ticker": "ENTG",
+    "date": "2026-10-14",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ENTG",
     "date": "2026-08-04",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -722,16 +732,6 @@
   {
     "ticker": "ENTG",
     "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "ENTG",
-    "date": "2026-07-15",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
