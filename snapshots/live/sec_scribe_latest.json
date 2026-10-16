@@ -141,6 +141,16 @@
   },
   {
     "ticker": "CAT",
+    "date": "2026-10-15",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CAT",
     "date": "2026-09-01",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -162,16 +172,6 @@
   {
     "ticker": "CAT",
     "date": "2026-08-04",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "CAT",
-    "date": "2026-06-11",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1861,6 +1861,16 @@
   },
   {
     "ticker": "AXP",
+    "date": "2026-10-15",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -6.2,
+    "risk_score": 7.2,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "AXP",
     "date": "2026-10-08",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1890,14 +1900,14 @@
     "summary": "8-K: pos= neg=default"
   },
   {
-    "ticker": "AXP",
-    "date": "2026-08-12",
+    "ticker": "CRS",
+    "date": "2026-10-15",
     "source": "sec_scribe_v2",
     "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
   },
   {
     "ticker": "CRS",
@@ -1928,16 +1938,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "CRS",
-    "date": "2026-08-12",
-    "source": "sec_scribe_v2",
-    "form": "10-K",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-K: pos=artificial intelligence,margin expansion,share repurchase,free cash flow neg=material weakness,restatement,default,impairment,restructuring"
   },
   {
     "ticker": "SO",
