@@ -1541,6 +1541,16 @@
   },
   {
     "ticker": "GM",
+    "date": "2026-10-20",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "GM",
     "date": "2026-08-11",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1562,16 +1572,6 @@
   {
     "ticker": "GM",
     "date": "2026-07-21",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "GM",
-    "date": "2026-06-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -2421,6 +2421,16 @@
   },
   {
     "ticker": "CRM",
+    "date": "2026-10-20",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CRM",
     "date": "2026-09-17",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2448,16 +2458,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,data center,record revenue,margin expansion,backlog neg=default,dilution,impairment,pricing pressure,restructuring"
-  },
-  {
-    "ticker": "CRM",
-    "date": "2026-08-26",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "HWM",
