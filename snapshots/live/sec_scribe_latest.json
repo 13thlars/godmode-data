@@ -181,6 +181,26 @@
   },
   {
     "ticker": "IBM",
+    "date": "2026-10-22",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=data center,backlog,share repurchase,free cash flow neg=default,dilution,convertible notes,impairment,restructuring"
+  },
+  {
+    "ticker": "IBM",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "IBM",
     "date": "2026-10-01",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -200,24 +220,24 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "IBM",
-    "date": "2026-08-11",
-    "source": "sec_scribe_v2",
-    "form": "424B5",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "424B5: pos=artificial intelligence neg=default,dilution,restructuring"
-  },
-  {
-    "ticker": "IBM",
-    "date": "2026-07-23",
+    "ticker": "META",
+    "date": "2026-10-22",
     "source": "sec_scribe_v2",
     "form": "10-Q",
     "bullish_score": -10,
     "risk_score": 10,
     "confidence": 8,
-    "summary": "10-Q: pos=data center,backlog,share repurchase,free cash flow neg=default,dilution,convertible notes,impairment,restructuring"
+    "summary": "10-Q: pos=artificial intelligence,data center,strategic partnership,share repurchase neg=default,dilution,impairment,restructuring,layoff"
+  },
+  {
+    "ticker": "META",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -0.6,
+    "risk_score": 3.6,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=restatement"
   },
   {
     "ticker": "META",
@@ -232,26 +252,6 @@
   {
     "ticker": "META",
     "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "META",
-    "date": "2026-05-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "META",
-    "date": "2026-05-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -341,6 +341,26 @@
   },
   {
     "ticker": "T",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence neg=dilution,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "T",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "T",
     "date": "2026-10-16",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -352,26 +372,6 @@
   {
     "ticker": "T",
     "date": "2026-09-09",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "T",
-    "date": "2026-08-17",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "T",
-    "date": "2026-08-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -421,6 +421,26 @@
   },
   {
     "ticker": "NEE",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence neg=default,dilution,impairment,litigation"
+  },
+  {
+    "ticker": "NEE",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "NEE",
     "date": "2026-10-06",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -438,26 +458,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "NEE",
-    "date": "2026-09-03",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "NEE",
-    "date": "2026-08-25",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 4.4,
-    "risk_score": 2.7,
-    "confidence": 8,
-    "summary": "8-K: pos=free cash flow neg=litigation"
   },
   {
     "ticker": "MSFT",
@@ -981,6 +981,16 @@
   },
   {
     "ticker": "LRCX",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "LRCX",
     "date": "2026-08-27",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1008,16 +1018,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "LRCX",
-    "date": "2026-04-23",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,share repurchase neg=default,impairment,restructuring,litigation"
   },
   {
     "ticker": "AMAT",
@@ -1141,6 +1141,26 @@
   },
   {
     "ticker": "ABT",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "ABT",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=restructuring"
+  },
+  {
+    "ticker": "ABT",
     "date": "2026-08-20",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1160,24 +1180,14 @@
     "summary": "10-Q: pos=share repurchase neg=impairment,restructuring,litigation"
   },
   {
-    "ticker": "ABT",
-    "date": "2026-07-16",
+    "ticker": "TXN",
+    "date": "2026-10-21",
     "source": "sec_scribe_v2",
     "form": "8-K",
-    "bullish_score": 2.9,
-    "risk_score": 1.35,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=restructuring"
-  },
-  {
-    "ticker": "ABT",
-    "date": "2026-04-29",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=share repurchase neg=impairment,restructuring,litigation"
+    "bullish_score": 6.8,
+    "risk_score": 0,
+    "confidence": 7,
+    "summary": "8-K: pos=free cash flow neg="
   },
   {
     "ticker": "TXN",
@@ -1208,16 +1218,6 @@
     "risk_score": 0,
     "confidence": 7,
     "summary": "8-K: pos=free cash flow neg="
-  },
-  {
-    "ticker": "TXN",
-    "date": "2026-06-02",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "MELI",
@@ -1461,6 +1461,16 @@
   },
   {
     "ticker": "DELL",
+    "date": "2026-10-21",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "DELL",
     "date": "2026-09-15",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1488,16 +1498,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,data center,backlog,share repurchase,free cash flow neg=default,impairment,litigation"
-  },
-  {
-    "ticker": "DELL",
-    "date": "2026-09-01",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "PWR",
@@ -1543,6 +1543,16 @@
     "ticker": "GM",
     "date": "2026-10-20",
     "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=strong demand,share repurchase,free cash flow neg=default,subpoena,impairment,pricing pressure,restructuring"
+  },
+  {
+    "ticker": "GM",
+    "date": "2026-10-20",
+    "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
     "risk_score": 0,
@@ -1568,16 +1578,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=strong demand,share repurchase,free cash flow neg=default,subpoena,impairment,pricing pressure,restructuring"
-  },
-  {
-    "ticker": "GM",
-    "date": "2026-07-21",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "TD",
@@ -1821,6 +1821,16 @@
   },
   {
     "ticker": "JPM",
+    "date": "2026-10-20",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "JPM",
     "date": "2026-10-13",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1848,16 +1858,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=data center,share repurchase neg=material weakness,default,impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "JPM",
-    "date": "2026-07-23",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "AXP",
