@@ -981,6 +981,16 @@
   },
   {
     "ticker": "LRCX",
+    "date": "2026-10-22",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,share repurchase,free cash flow neg=default,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "LRCX",
     "date": "2026-10-21",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1008,16 +1018,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-K: pos=artificial intelligence,share repurchase,free cash flow neg=material weakness,restatement,default,impairment,restructuring"
-  },
-  {
-    "ticker": "LRCX",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "AMAT",
@@ -1101,6 +1101,16 @@
   },
   {
     "ticker": "C",
+    "date": "2026-10-22",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "C",
     "date": "2026-10-13",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1128,16 +1138,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,share repurchase neg=default,impairment,restructuring,litigation,cybersecurity incident"
-  },
-  {
-    "ticker": "C",
-    "date": "2026-07-14",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "ABT",
@@ -1661,6 +1661,16 @@
   },
   {
     "ticker": "SLB",
+    "date": "2026-10-23",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "SLB",
     "date": "2026-10-06",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1688,16 +1698,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=data center,strong demand,backlog,share repurchase,free cash flow neg=default,dilution,impairment,pricing pressure,restructuring"
-  },
-  {
-    "ticker": "SLB",
-    "date": "2026-07-24",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "LLY",
@@ -1861,6 +1861,16 @@
   },
   {
     "ticker": "AXP",
+    "date": "2026-10-23",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "8-K: pos=artificial intelligence,strategic partnership,share repurchase neg=impairment,restructuring,layoff,litigation,cybersecurity incident"
+  },
+  {
+    "ticker": "AXP",
     "date": "2026-10-15",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1890,14 +1900,34 @@
     "summary": "8-K: pos= neg=default"
   },
   {
-    "ticker": "AXP",
-    "date": "2026-08-17",
+    "ticker": "CRS",
+    "date": "2026-10-22",
     "source": "sec_scribe_v2",
     "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CRS",
+    "date": "2026-10-22",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "CRS",
+    "date": "2026-10-22",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
     "bullish_score": -10,
     "risk_score": 10,
     "confidence": 8,
-    "summary": "8-K: pos= neg=default"
+    "summary": "10-Q: pos=margin expansion,share repurchase,free cash flow neg=restatement,default,impairment,restructuring,litigation"
   },
   {
     "ticker": "CRS",
@@ -1910,28 +1940,8 @@
     "summary": "8-K: pos= neg=litigation"
   },
   {
-    "ticker": "CRS",
-    "date": "2026-10-08",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "CRS",
-    "date": "2026-08-25",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "CRS",
-    "date": "2026-08-12",
+    "ticker": "SO",
+    "date": "2026-10-22",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1968,16 +1978,6 @@
     "risk_score": 7.2,
     "confidence": 8,
     "summary": "8-K: pos= neg=convertible notes"
-  },
-  {
-    "ticker": "SO",
-    "date": "2026-07-30",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "PNW",
