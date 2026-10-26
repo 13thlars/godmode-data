@@ -221,6 +221,26 @@
   },
   {
     "ticker": "META",
+    "date": "2026-10-26",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos=artificial intelligence neg=restatement,default,dilution,litigation"
+  },
+  {
+    "ticker": "META",
+    "date": "2026-10-26",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos=artificial intelligence neg=restatement,default,dilution,litigation"
+  },
+  {
+    "ticker": "META",
     "date": "2026-10-22",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -238,26 +258,6 @@
     "risk_score": 3.6,
     "confidence": 8,
     "summary": "8-K: pos= neg=restatement"
-  },
-  {
-    "ticker": "META",
-    "date": "2026-07-30",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,strategic partnership,share repurchase neg=default,dilution,impairment,restructuring,layoff"
-  },
-  {
-    "ticker": "META",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "MU",
@@ -901,6 +901,16 @@
   },
   {
     "ticker": "MRVL",
+    "date": "2026-10-23",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -0.6,
+    "risk_score": 3.6,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "MRVL",
     "date": "2026-09-25",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -922,16 +932,6 @@
   {
     "ticker": "MRVL",
     "date": "2026-08-27",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "MRVL",
-    "date": "2026-08-19",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1181,6 +1181,26 @@
   },
   {
     "ticker": "TXN",
+    "date": "2026-10-26",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos= neg=default,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "TXN",
+    "date": "2026-10-23",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -7.4,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=data center,free cash flow neg=impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "TXN",
     "date": "2026-10-21",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1198,26 +1218,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "TXN",
-    "date": "2026-07-24",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -3.2,
-    "risk_score": 9.9,
-    "confidence": 8,
-    "summary": "10-Q: pos=data center,free cash flow neg=impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "TXN",
-    "date": "2026-07-22",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 6.8,
-    "risk_score": 0,
-    "confidence": 7,
-    "summary": "8-K: pos=free cash flow neg="
   },
   {
     "ticker": "MELI",
@@ -1301,6 +1301,16 @@
   },
   {
     "ticker": "VZ",
+    "date": "2026-10-26",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 8.6,
+    "risk_score": 0,
+    "confidence": 7,
+    "summary": "8-K: pos=free cash flow neg="
+  },
+  {
+    "ticker": "VZ",
     "date": "2026-09-29",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1328,16 +1338,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "VZ",
-    "date": "2026-07-24",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 8.6,
-    "risk_score": 0,
-    "confidence": 7,
-    "summary": "8-K: pos=free cash flow neg="
   },
   {
     "ticker": "MA",
@@ -1863,6 +1863,16 @@
     "ticker": "AXP",
     "date": "2026-10-23",
     "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,strategic partnership,share repurchase neg=default,subpoena,impairment,restructuring,layoff"
+  },
+  {
+    "ticker": "AXP",
+    "date": "2026-10-23",
+    "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": -10,
     "risk_score": 10,
@@ -1888,16 +1898,6 @@
     "risk_score": 1.35,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "AXP",
-    "date": "2026-09-15",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=default"
   },
   {
     "ticker": "CRS",
@@ -2181,6 +2181,16 @@
   },
   {
     "ticker": "VRT",
+    "date": "2026-10-26",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "VRT",
     "date": "2026-09-24",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2208,16 +2218,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "VRT",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,margin expansion,backlog,share repurchase neg=material weakness,default,impairment,restructuring,litigation"
   },
   {
     "ticker": "GEV",
