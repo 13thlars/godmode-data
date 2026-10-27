@@ -501,6 +501,16 @@
   },
   {
     "ticker": "HUBB",
+    "date": "2026-10-27",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "HUBB",
     "date": "2026-07-29",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -528,16 +538,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "HUBB",
-    "date": "2026-06-08",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": -8.3,
-    "risk_score": 8.55,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=default,impairment,litigation"
   },
   {
     "ticker": "QCOM",
@@ -661,6 +661,16 @@
   },
   {
     "ticker": "AMKR",
+    "date": "2026-10-26",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AMKR",
     "date": "2026-07-28",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -682,16 +692,6 @@
   {
     "ticker": "AMKR",
     "date": "2026-05-21",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "AMKR",
-    "date": "2026-05-19",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1021,6 +1021,16 @@
   },
   {
     "ticker": "AMAT",
+    "date": "2026-10-26",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AMAT",
     "date": "2026-08-27",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -1050,14 +1060,14 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "AMAT",
-    "date": "2026-05-21",
+    "ticker": "PYPL",
+    "date": "2026-10-27",
     "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,backlog,share repurchase neg=default,subpoena,impairment,restructuring,litigation"
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "PYPL",
@@ -1090,14 +1100,14 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "PYPL",
-    "date": "2026-05-15",
+    "ticker": "C",
+    "date": "2026-10-26",
     "source": "sec_scribe_v2",
     "form": "8-K",
-    "bullish_score": -0.6,
-    "risk_score": 3.6,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=default"
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "C",
@@ -1128,16 +1138,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "C",
-    "date": "2026-08-06",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,share repurchase neg=default,impairment,restructuring,litigation,cybersecurity incident"
   },
   {
     "ticker": "ABT",
@@ -1541,6 +1541,16 @@
   },
   {
     "ticker": "GM",
+    "date": "2026-10-27",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "GM",
     "date": "2026-10-20",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1568,16 +1578,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "8-K: pos=free cash flow neg=default"
-  },
-  {
-    "ticker": "GM",
-    "date": "2026-07-21",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=strong demand,share repurchase,free cash flow neg=default,subpoena,impairment,pricing pressure,restructuring"
   },
   {
     "ticker": "TD",
@@ -2181,6 +2181,16 @@
   },
   {
     "ticker": "VRT",
+    "date": "2026-10-27",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 6.8,
+    "risk_score": 0,
+    "confidence": 7,
+    "summary": "8-K: pos=data center neg="
+  },
+  {
+    "ticker": "VRT",
     "date": "2026-10-26",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2192,16 +2202,6 @@
   {
     "ticker": "VRT",
     "date": "2026-09-24",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "VRT",
-    "date": "2026-09-02",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
