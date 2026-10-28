@@ -101,6 +101,16 @@
   },
   {
     "ticker": "FLEX",
+    "date": "2026-10-28",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "FLEX",
     "date": "2026-10-14",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -128,16 +138,6 @@
     "risk_score": 1.35,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-10-02",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": -8.3,
-    "risk_score": 8.55,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=default,litigation"
   },
   {
     "ticker": "CAT",
@@ -501,6 +501,16 @@
   },
   {
     "ticker": "HUBB",
+    "date": "2026-10-28",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,margin expansion,backlog,share repurchase neg=default,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "HUBB",
     "date": "2026-10-27",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -522,16 +532,6 @@
   {
     "ticker": "HUBB",
     "date": "2026-07-28",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "HUBB",
-    "date": "2026-06-09",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -621,6 +621,16 @@
   },
   {
     "ticker": "TMUS",
+    "date": "2026-10-28",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TMUS",
     "date": "2026-09-03",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -650,14 +660,14 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "TMUS",
-    "date": "2026-07-07",
+    "ticker": "AMKR",
+    "date": "2026-10-27",
     "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,data center,strong demand,backlog,free cash flow neg=material weakness,default,dilution,convertible notes,impairment"
   },
   {
     "ticker": "AMKR",
@@ -682,16 +692,6 @@
   {
     "ticker": "AMKR",
     "date": "2026-07-27",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "AMKR",
-    "date": "2026-05-21",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -821,6 +821,16 @@
   },
   {
     "ticker": "WFC",
+    "date": "2026-10-28",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,share repurchase neg=default,dilution,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "WFC",
     "date": "2026-10-13",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -842,16 +852,6 @@
   {
     "ticker": "WFC",
     "date": "2026-09-23",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "WFC",
-    "date": "2026-08-19",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1063,6 +1063,16 @@
     "ticker": "PYPL",
     "date": "2026-10-27",
     "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,data center,share repurchase neg=default,dilution,impairment,restructuring,regulatory investigation"
+  },
+  {
+    "ticker": "PYPL",
+    "date": "2026-10-27",
+    "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
     "risk_score": 0,
@@ -1082,16 +1092,6 @@
   {
     "ticker": "PYPL",
     "date": "2026-07-28",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "PYPL",
-    "date": "2026-05-21",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -1181,6 +1181,16 @@
   },
   {
     "ticker": "TXN",
+    "date": "2026-10-28",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos= neg=default,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "TXN",
     "date": "2026-10-26",
     "source": "sec_scribe_v2",
     "form": "424B5",
@@ -1208,16 +1218,6 @@
     "risk_score": 0,
     "confidence": 7,
     "summary": "8-K: pos=free cash flow neg="
-  },
-  {
-    "ticker": "TXN",
-    "date": "2026-09-17",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "MELI",
@@ -1621,6 +1621,16 @@
   },
   {
     "ticker": "AVGO",
+    "date": "2026-10-27",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": -0.6,
+    "risk_score": 3.6,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=default"
+  },
+  {
+    "ticker": "AVGO",
     "date": "2026-09-10",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1650,14 +1660,14 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "AVGO",
-    "date": "2026-06-18",
+    "ticker": "SLB",
+    "date": "2026-10-28",
     "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=data center,backlog,contract award,share repurchase,free cash flow neg=default,dilution,impairment,pricing pressure,restructuring"
   },
   {
     "ticker": "SLB",
@@ -1688,16 +1698,6 @@
     "risk_score": 1.8,
     "confidence": 8,
     "summary": "8-K: pos= neg=pricing pressure"
-  },
-  {
-    "ticker": "SLB",
-    "date": "2026-07-29",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=data center,strong demand,backlog,share repurchase,free cash flow neg=default,dilution,impairment,pricing pressure,restructuring"
   },
   {
     "ticker": "LLY",
@@ -2181,6 +2181,16 @@
   },
   {
     "ticker": "VRT",
+    "date": "2026-10-28",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "VRT",
     "date": "2026-10-27",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2210,8 +2220,18 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "VRT",
-    "date": "2026-09-02",
+    "ticker": "GEV",
+    "date": "2026-10-28",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=backlog,share repurchase,free cash flow neg=default,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "GEV",
+    "date": "2026-10-28",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -2238,26 +2258,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=backlog,share repurchase,free cash flow neg=default,impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "GEV",
-    "date": "2026-07-22",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "GEV",
-    "date": "2026-05-22",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "TT",
@@ -2301,6 +2301,16 @@
   },
   {
     "ticker": "APH",
+    "date": "2026-10-28",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 2.9,
+    "risk_score": 1.35,
+    "confidence": 8,
+    "summary": "8-K: pos= neg=litigation"
+  },
+  {
+    "ticker": "APH",
     "date": "2026-10-06",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2330,14 +2340,24 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "APH",
-    "date": "2026-07-31",
+    "ticker": "NXPI",
+    "date": "2026-10-27",
     "source": "sec_scribe_v2",
     "form": "10-Q",
     "bullish_score": -10,
     "risk_score": 10,
     "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,backlog,free cash flow neg=default,impairment,litigation"
+    "summary": "10-Q: pos=backlog,strategic partnership,share repurchase,free cash flow neg=material weakness,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "NXPI",
+    "date": "2026-10-27",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "NXPI",
@@ -2352,26 +2372,6 @@
   {
     "ticker": "NXPI",
     "date": "2026-08-28",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "NXPI",
-    "date": "2026-07-28",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=backlog,strategic partnership,share repurchase,free cash flow neg=material weakness,impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "NXPI",
-    "date": "2026-07-28",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
