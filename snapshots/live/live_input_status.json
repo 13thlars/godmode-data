@@ -1,26 +1,26 @@
 {
   "status": "ok",
-  "generated_utc": "2026-10-29T17:29:21.441147+00:00",
+  "generated_utc": "2026-10-30T17:05:15.114799+00:00",
   "source": "github_actions_deterministic_ab",
-  "github_run_id": "40921312980",
-  "github_sha": "ec79de3cfa67a361a8ea0bd63e52518609fa0f5f",
+  "github_run_id": "41095079030",
+  "github_sha": "38d1c677522ccbac54291461a05711c7443eccf2",
   "macro": {
-    "rows": 5970,
-    "valid_rows": 5970,
+    "rows": 6000,
+    "valid_rows": 6000,
     "unique_tickers": 30,
-    "latest_date": "2026-10-23"
+    "latest_date": "2026-10-30"
   },
   "sec": {
     "rows": 250,
     "valid_rows": 250,
     "successful_rows": 250,
     "successful_tickers": 63,
-    "latest_date": "2026-10-29"
+    "latest_date": "2026-10-30"
   },
   "quiver": {
     "endpoints": 10,
-    "nonempty_endpoints": 10,
-    "total_rows": 83059,
+    "nonempty_endpoints": 9,
+    "total_rows": 82063,
     "rows_by_endpoint": {
       "insider": 20000,
       "contracts": 20000,
@@ -29,10 +29,10 @@
       "news": 30,
       "offexchange": 5533,
       "lobbying": 20000,
-      "patents": 996,
+      "patents": 0,
       "13f": 10000,
       "donations": 500
     },
-    "created_utc": "2026-10-29T17:29:08.681064+00:00"
+    "created_utc": "2026-10-30T17:03:55.508341+00:00"
   }
 }
