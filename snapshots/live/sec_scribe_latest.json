@@ -101,6 +101,16 @@
   },
   {
     "ticker": "FLEX",
+    "date": "2026-10-30",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=data center,strong demand,margin expansion,backlog,share repurchase neg=default,dilution,impairment,restructuring,litigation"
+  },
+  {
+    "ticker": "FLEX",
     "date": "2026-10-28",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -122,16 +132,6 @@
   {
     "ticker": "FLEX",
     "date": "2026-10-13",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 2.9,
-    "risk_score": 1.35,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "FLEX",
-    "date": "2026-10-05",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 2.9,
@@ -381,6 +381,16 @@
   },
   {
     "ticker": "GS",
+    "date": "2026-11-02",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,backlog,share repurchase neg=default,subpoena,common stock offering,impairment,restructuring"
+  },
+  {
+    "ticker": "GS",
     "date": "2026-10-13",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -408,16 +418,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,backlog,share repurchase neg=default,subpoena,common stock offering,impairment,restructuring"
-  },
-  {
-    "ticker": "GS",
-    "date": "2026-07-27",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "NEE",
@@ -901,6 +901,26 @@
   },
   {
     "ticker": "MRVL",
+    "date": "2026-11-02",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MRVL",
+    "date": "2026-11-02",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "MRVL",
     "date": "2026-10-23",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -920,18 +940,8 @@
     "summary": "8-K: pos= neg="
   },
   {
-    "ticker": "MRVL",
-    "date": "2026-08-28",
-    "source": "sec_scribe_v2",
-    "form": "10-Q",
-    "bullish_score": -10,
-    "risk_score": 10,
-    "confidence": 8,
-    "summary": "10-Q: pos=artificial intelligence,data center,strategic partnership,share repurchase neg=default,dilution,impairment,pricing pressure,restructuring"
-  },
-  {
-    "ticker": "MRVL",
-    "date": "2026-08-27",
+    "ticker": "AAPL",
+    "date": "2026-11-02",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -968,16 +978,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,share repurchase neg=default,pricing pressure,litigation"
-  },
-  {
-    "ticker": "AAPL",
-    "date": "2026-04-30",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "LRCX",
@@ -1861,6 +1861,16 @@
   },
   {
     "ticker": "AXP",
+    "date": "2026-10-30",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AXP",
     "date": "2026-10-23",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -1888,16 +1898,6 @@
     "risk_score": 7.2,
     "confidence": 8,
     "summary": "8-K: pos= neg=default"
-  },
-  {
-    "ticker": "AXP",
-    "date": "2026-10-08",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 2.9,
-    "risk_score": 1.35,
-    "confidence": 8,
-    "summary": "8-K: pos= neg=litigation"
   },
   {
     "ticker": "CRS",
@@ -2101,6 +2101,16 @@
   },
   {
     "ticker": "GOOG",
+    "date": "2026-11-02",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos=data center neg=default,dilution,litigation"
+  },
+  {
+    "ticker": "GOOG",
     "date": "2026-10-29",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -2128,16 +2138,6 @@
     "risk_score": 0,
     "confidence": 4,
     "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "GOOG",
-    "date": "2026-08-06",
-    "source": "sec_scribe_v2",
-    "form": "424B5",
-    "bullish_score": -0.6,
-    "risk_score": 3.6,
-    "confidence": 8,
-    "summary": "424B5: pos= neg=restatement"
   },
   {
     "ticker": "KLAC",
@@ -2301,6 +2301,16 @@
   },
   {
     "ticker": "APH",
+    "date": "2026-10-30",
+    "source": "sec_scribe_v2",
+    "form": "10-Q",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "10-Q: pos=artificial intelligence,backlog,free cash flow neg=default,impairment,litigation"
+  },
+  {
+    "ticker": "APH",
     "date": "2026-10-28",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2328,16 +2338,6 @@
     "risk_score": 1.35,
     "confidence": 8,
     "summary": "8-K: pos= neg=litigation"
-  },
-  {
-    "ticker": "APH",
-    "date": "2026-08-06",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "NXPI",
@@ -2381,6 +2381,16 @@
   },
   {
     "ticker": "ORCL",
+    "date": "2026-11-02",
+    "source": "sec_scribe_v2",
+    "form": "424B5",
+    "bullish_score": -10,
+    "risk_score": 10,
+    "confidence": 8,
+    "summary": "424B5: pos=artificial intelligence,data center neg=default,dilution,common stock offering,restructuring"
+  },
+  {
+    "ticker": "ORCL",
     "date": "2026-10-28",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2408,16 +2418,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,data center,free cash flow neg=impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "ORCL",
-    "date": "2026-09-10",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "CRM",
