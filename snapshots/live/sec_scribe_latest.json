@@ -941,6 +941,16 @@
   },
   {
     "ticker": "AAPL",
+    "date": "2026-11-09",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "AAPL",
     "date": "2026-11-03",
     "source": "sec_scribe_v2",
     "form": "10-K",
@@ -968,16 +978,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=artificial intelligence,data center,share repurchase neg=default,litigation"
-  },
-  {
-    "ticker": "AAPL",
-    "date": "2026-07-30",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "LRCX",
@@ -1181,6 +1181,16 @@
   },
   {
     "ticker": "TXN",
+    "date": "2026-11-09",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "TXN",
     "date": "2026-10-28",
     "source": "sec_scribe_v2",
     "form": "424B5",
@@ -1208,16 +1218,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-Q: pos=data center,free cash flow neg=impairment,restructuring,litigation"
-  },
-  {
-    "ticker": "TXN",
-    "date": "2026-10-21",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 6.8,
-    "risk_score": 0,
-    "confidence": 7,
-    "summary": "8-K: pos=free cash flow neg="
   },
   {
     "ticker": "MELI",
@@ -1981,6 +1981,16 @@
   },
   {
     "ticker": "PNW",
+    "date": "2026-11-06",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "PNW",
     "date": "2026-11-03",
     "source": "sec_scribe_v2",
     "form": "8-K",
@@ -2002,16 +2012,6 @@
   {
     "ticker": "PNW",
     "date": "2026-09-30",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
-  },
-  {
-    "ticker": "PNW",
-    "date": "2026-09-04",
     "source": "sec_scribe_v2",
     "form": "8-K",
     "bullish_score": 5.0,
@@ -2141,6 +2141,16 @@
   },
   {
     "ticker": "KLAC",
+    "date": "2026-11-06",
+    "source": "sec_scribe_v2",
+    "form": "8-K",
+    "bullish_score": 5.0,
+    "risk_score": 0,
+    "confidence": 4,
+    "summary": "8-K: pos= neg="
+  },
+  {
+    "ticker": "KLAC",
     "date": "2026-10-29",
     "source": "sec_scribe_v2",
     "form": "10-Q",
@@ -2168,16 +2178,6 @@
     "risk_score": 10,
     "confidence": 8,
     "summary": "10-K: pos=artificial intelligence,data center,strong demand,backlog,share repurchase neg=material weakness,restatement,default,subpoena,impairment"
-  },
-  {
-    "ticker": "KLAC",
-    "date": "2026-08-06",
-    "source": "sec_scribe_v2",
-    "form": "8-K",
-    "bullish_score": 5.0,
-    "risk_score": 0,
-    "confidence": 4,
-    "summary": "8-K: pos= neg="
   },
   {
     "ticker": "VRT",
